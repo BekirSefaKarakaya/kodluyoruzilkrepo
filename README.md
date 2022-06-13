@@ -29,6 +29,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Lorem Picsum Gorsel](https://picsum.photos/200/300)
-+ 
-+ ![Teşekkürler](https://patika.dev)
+![Lorem Picsum Gorsel](https://picsum.photos/seed/picsum/200/300)
+
+Thanks for [Patika.dev](https://www.patika.dev/tr)
