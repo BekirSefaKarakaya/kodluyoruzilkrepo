@@ -8,7 +8,7 @@
 
 ````
 git clone https://github.com/BekirSefaKarakaya/kodluyoruzilkrepo.git
-````
+```` 
 
 ## Usage ##
 
